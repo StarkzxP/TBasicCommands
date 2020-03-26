@@ -1,1 +1,1 @@
-TBasicCommands is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+TModloader mod with basic commands for a server.
