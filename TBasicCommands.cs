@@ -1,10 +1,10 @@
 using Terraria.ModLoader;
 
-namespace TBasicCommands1
+namespace TBasicCommands
 {
-	public class TBasicCommands1 : Mod
+	public class TBasicCommands : Mod
 	{
-		public TBasicCommands1()
+		public TBasicCommands()
 		{
 		}
 	}
