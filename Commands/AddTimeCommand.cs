@@ -6,7 +6,7 @@ namespace TBasicCommands.Commands
 {
     public class AddTimeCommand : ModCommand
     {
-        public override CommandType Type => CommandType.World;
+        public override CommandType Type => CommandType.Console;
         public override string Command => "addTime";
         public override string Usage => "/addTime Ticks";
         public override string Description => "Add or rewind world time";
