@@ -45,7 +45,7 @@ namespace ExampleMod.Commands
                 stack = int.Parse(args[2]);
             }
 
-            caller.Player.QuickSpawnItem(type, stack);
+            Main.player[player].QuickSpawnItem(type, stack);
         }
     }
 }
